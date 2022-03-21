@@ -7,7 +7,7 @@ This program allows users to select a video file, the location where the video w
 
 You can this program by writing `python splitter.py` in the terminal.
 
-`moviepy` library and `ffmpeg` is required.
+`moviepy` and `ffmpeg` libraries are required.
 
 
 Currently, it is only allowed to select `mp4` files. 
